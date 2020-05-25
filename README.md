@@ -3,7 +3,7 @@
 ## Unit testing anti-patterns with Jest
 
 - [Initialization logic](./01-init-logic)
-- [Module mocking](./02-module)
+- [Module mocking](./02-modules)
 - [Globals mocking](./03-globals)
 - [Class mocking](./04-class)
 - [Time mocking](./05-time)
